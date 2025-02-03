@@ -33,4 +33,4 @@ Project to consume user data with spring boot, redis, kafka
 - to show only a user info send a GET request http://localhost:8080/api/v1/users/{userId}
 
 
-- example csv and excel template can be found in users.csv and users.xls
+- csv and excel template file can be found in users.csv and users.xls
