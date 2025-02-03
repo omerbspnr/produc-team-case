@@ -31,3 +31,6 @@ Project to consume user data with spring boot, redis, kafka
 - to update user info send a put request http://localhost:8080/api/v1/users/{userId}
 - to delete user info send a DELETE request   http://localhost:8080/api/v1/users/{userId}
 - to show only a user info send a GET request http://localhost:8080/api/v1/users/{userId}
+
+
+- example csv and excel template can be found in users.csv and users.xls
