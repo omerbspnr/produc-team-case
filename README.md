@@ -23,6 +23,7 @@ Project to consume user data with spring boot, redis, kafka
 
 **Running**
 - Uplaod a csv or excel file that contains user info to localhost:8001/upload/excel or localhost:8001/upload/csv
+![Screenshot from 2025-02-03 09-54-38](https://github.com/user-attachments/assets/5c383d71-4367-41d6-ac56-be3b62dde834)
 
 - every request to user-service need to be authenticated with basic auth
   ![Screenshot from 2025-02-02 23-25-03](https://github.com/user-attachments/assets/241629e2-fab2-48a6-9810-870f04dc5725)
